@@ -1,0 +1,82 @@
+:root
+{
+    /* DECLARATIONS DES COULEURS */    
+    
+    /* copyright DANSOKO_CODING */
+
+    --black-color:#222629;
+    --red-b-gradient:linear-gradient(120deg,#d83434 0%, #d83434 100%);
+    --red-orange-color-wheel: #c40101;
+    --ultramarine-blue:hsl(217,100%,50%);
+    --lavender-blue:hsl(229,96%,91%);
+    --oxford-blue:hsl(229,84%,12%);
+    --light-gray:hsl(0,0%,80%);
+    --sonic-silver:hsl(0,0%,47%);
+    --blue-crayola:hsl(216,98%,52%);
+    --cultured:hsl(228,26%,96%);
+    --white:hsl(0,0%,100%);
+
+
+    /* ----------------------------------------- */
+    /*      Themes et  coulors        */
+    --red-icon-color:rgba(233, 47, 47, 0.947);
+    --text-gray: #3f4954;
+    --text-light : #686666da;
+    --bg-color: #0f0f0f;
+    --white: #ffffff;
+    --midnight: #104f55;
+
+    /* gradient color   */
+    --red-gradient: linear-gradient(120deg, #d83434 0%, #fbc2c2 100%);
+
+    /*      theme font-family   */
+    --Abel: 'Abel', cursive;
+    --Anton: 'Anton', cursive;
+    --Josefin : 'Josefin', cursive;
+    --Lexend: 'Lexend', cursive;
+    --Livvic : 'Livvic', cursive;
+
+    /* TYPOGRAPHIE */
+
+    --fs-1: 38px;
+    --fs-2: 35px;
+    --fs-3: 30px;
+    --fs-4: 22px;
+    --fs-5: 20px;
+    --fs-5-1: 20px;
+    --fs-6: 15px;
+    --fs-6-1:12px; 
+
+/* fs-6-1 constante */
+    --fw-5: 500;
+    --fw-6: 600;
+    --fw-7: 700;
+    --fw-8: 800;
+    --fw-9: 900;
+
+   /* SPACING */
+    --px: 15px;
+    --py: 80px;
+    /* AUTRES */
+    --mf-1:20px;
+    --mf-2:60px;
+    /* .header-bg-parent variable */
+    --mf-900:900px;
+    --fs-name:60px;
+    --fs-2vw:2vw;
+    --fs-30:30px;
+    --fs-60:60px;
+        /* SUB MENU */
+    --sub1-top: 75px;
+    --sub1-height: 10px;
+    --mt-sub-menu-1:46px;
+
+    /* TRANSITION */
+    --default-transition: 0.25s ease;
+    /* event */
+    --event-card-width:20%;
+    /* footer */
+    --footer-grid-width:70% ;
+/* bouton move up */
+--mf-move-up:90% !important ;
+}                                     /* copyright DANSOKO_CODING */
